@@ -9,6 +9,6 @@ services:
       API_ID:16246834 # Your API HASH from my.telegram.org
       API_HASH:29b3ffa9245c07f05375b92f38e8f13d # Your API ID from my.telegram.org
       BOT_TOKEN:5716827359:AAE3NJPyZkXHATL8m3AmLVxFy0-NNhKOOog # Bot token, get it from @BotFather 
-      SESSION:AQCwELHvNBIaxKNBtR-J3h3sK463-TSF5nxvYlpWpi_2c9zpMPfNg2AcU3IAr6qTOGoRhBXQUy10BjfoSlN5Y3XZA2oZbmfs3bLYXMpgMty9NMmOuVx7PIdcctq5Q5YQ2G1dr57dhHSApcwNOKEn3gpG7lNQeabZJmcFRDYSLRwoxNZKM37gafgGZnoV7hcMHMGAaoYj-o5mspVO_NoMs7zheh3OCl88dMslnB9ht26kfx_IxYlfOFO6hBb5eFapuELytVc7fOyA_2jWjLyo_ciIdIK4uBCBVI5utJiL6HCAufMMgxvHsKCT3PEkf-ZDClcrngB1s9LJxxyQ9HOybBcmZj4j3wA # Pyrogram string session
+      SESSION:AQA2XUL_FSP0tZDev1APSt4yiPX5z8wHwwV_Eo8PEp1u2PzVzzZbz-Weaw4f8ivwCvHD0_tVI51tGVENPzAv5JkjhjonCvsWoPQi5Af3arDeDc_jqGv0ct_8mqBYQAmyklCv9LorAO_kKI6yWT05zyrjkcxodW8RPMlcuMmWDbdDHJfGT3EodeIq5I4kcCjytTubRGTBkIAdOv8YuXmrzENG33yNv0NbmDtXmKY_98D5rXeSQjvcBUfHREw7fUbQ0g2YH5V9hYHrlpehTymXaLtQIa03kFan-oKjqrJgHPeh47dWXE3p1y5389yz-0ldEYOXX-oHBO8NQUv6f0jE8QILZj4j3wA # Pyrogram string session
       AUTH:1715348447 # User ID of Bot owner
       FORCESUB:nakama_asl # Username name of public channel without using '@'
